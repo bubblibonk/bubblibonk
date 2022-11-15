@@ -1,5 +1,4 @@
-web and python dev
-arch linux power user
+C pr0GraMmer
 
 
 bonk#2694 on discord
