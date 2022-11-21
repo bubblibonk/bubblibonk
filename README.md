@@ -1,5 +1,6 @@
 <h1>Average wsl and dual boot user<h1>
 <h1>If you dont use C you have skill issue<h1>
+<code>img src="https://cdn.discordapp.com/attachments/980879985650835547/1044241267032346724/image.png"></code>
 <div align="center">
  <h1> Hi, I'm bonk <br>I am 14 years old <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 </div>
