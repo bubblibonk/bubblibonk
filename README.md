@@ -6,7 +6,7 @@ I am a 14 yo Student learning C. Yes i know im pro.
 
 Skills: C
 
-Email:uncertifiedbonk@proton.me
+Email: uncertifiedbonk@proton.me
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bubblibonk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/theBonkSenpai)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Glum_Band_6349)  
