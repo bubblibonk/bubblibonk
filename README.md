@@ -1,4 +1,4 @@
-<h1 color="blue">Im bonk<h1>
+<h1>Im bonk<h1>
 ### Average Linux And Vim power user
 ![Average Linux And Vim power user](https://cdn.discordapp.com/attachments/980879985650835547/1044241267032346724/image.png)
 
