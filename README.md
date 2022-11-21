@@ -1,6 +1,6 @@
 <h1>Average wsl and dual boot user<h1>
 <h1>If you dont use C you have skill issue<h1>
-<code><img height="40" src="https://cdn.discordapp.com/attachments/980879985650835547/1044241267032346724/image.png" height = "900em" width = "900em"></code>
+<code><img height="40" src="https://cdn.discordapp.com/attachments/980879985650835547/1044241267032346724/image.png" height = "100%" width = "900em"></code>
  
  
  
