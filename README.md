@@ -5,9 +5,9 @@
 printf("C is love");
 ```
 
-I am a 14 yo Student learning C. Yes i know im pro.
 
-Skills: C
+
+Skills: C and Advanced Web Development
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubblibonk)](https://github.com/anuraghazra/github-readme-stats)
